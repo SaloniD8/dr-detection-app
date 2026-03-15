@@ -208,17 +208,3 @@ This tool is intended for use by qualified medical professionals as a clinical s
 
 \[GitHub](https://github.com/SaloniD8) · \[HuggingFace](https://huggingface.co/Salonideshmukh)
 
-```
-
-
-
-Save the file, then run these commands:
-
-```
-
-git add .
-
-git commit -m "added README"
-
-git push
-
